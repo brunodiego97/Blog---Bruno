@@ -1,0 +1,111 @@
+body{
+    line-height: 1.5;
+    font-size: 120%;
+    background-color: #E0F8F7;
+}
+main div{
+    width: 720px;
+    margin: auto;
+    border: 30px 0;
+    
+}
+main h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: #5858FA;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    padding: 10px;
+    border-bottom: 10px solid black;
+    font-size: 35px;
+}
+main h2{
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+main {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+    width: 88%;
+    float:left
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+.foto_bruno{
+    width: 250px;
+    border: 5px solid black;
+    margin: 20px;
+    box-sizing: border-box;
+    position: relative;
+    left: 215px;
+}
+aside{
+    font-family: 'Oswald', sans-serif;
+    background-color: #5858FA;
+    width: 170px;
+    text-align: center;
+    box-sizing: border-box;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;  
+    float: right;
+    clear: right;
+    width: 12%;
+    position: relative;
+    top: 270px;
+    padding: 20px;
+}
+aside a{
+    text-decoration: none;
+    color: white;
+}
+.redes_sociais li{
+    display: inline-block;
+}
+.redes_sociais a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-indent: -99999px;
+}
+.instagram{
+    background-image: url(..//IMG/instagram%20icon.png);
+}
+.linkedin{
+    background-image: url(..//IMG/linkedin%20icon.png);
+}
+.logo_codding{
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    width: 270px;
+    padding: 15px;
+    background-color: #7401DF;
+    float: right;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.copy{
+    clear: both;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;       
+}
+
+.menu{
+    line-height: 1.7;
+    font-size: 22px;
+}
+aside h2{
+    font-size: 35;
+}

@@ -1,0 +1,24 @@
+main a{
+    text-decoration: none;
+    color: brown;
+}
+
+p{
+    margin: 15px;
+}
+.adm, .cc{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.logo_cc, .logo_adm{
+    position: relative;
+    left: 250px;
+}
+
+hr{
+    width: 700px
+}
+main{
+    padding-bottom: 80px;
+}

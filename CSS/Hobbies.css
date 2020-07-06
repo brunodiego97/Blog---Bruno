@@ -1,0 +1,40 @@
+h2{
+    clear: both;
+}
+.lol_img,.god_img,.codding_img{
+    clear: both;
+}
+.lol{
+    float: right;
+    width: 400px;
+    position: relative;
+    top: 45px;
+}
+.god_img{
+    float: right;
+    width: 320px;
+    position: relative;
+    top: 60px;
+}
+
+.god{
+    width: 400px;
+    float: left;
+}
+.codding_img{
+    float: left;
+    position: relative;
+    top: 45px;
+}
+.codding{
+    width: 400px;
+    float: right;
+}
+
+main div div, main div img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main{
+    padding-bottom: 80px;
+}
